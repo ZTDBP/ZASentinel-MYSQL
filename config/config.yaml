@@ -1,0 +1,21 @@
+server:
+  addr: "127.0.0.1:33306"
+
+
+# target mysql
+confidential:
+  storage: yaml # yaml、vault
+  vault:
+    addr: http://xxxx:8200
+    token: myroot
+    dataPath: test
+  yaml:
+    host: 127.0.0.1
+    port: 3306
+    username: root
+    password: root
+    dbname: test
+
+fakeIdentity:
+  username: test1
+  password: test1
