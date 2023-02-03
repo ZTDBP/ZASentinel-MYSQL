@@ -22,11 +22,11 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/ztalab/ZASentinel-MYSQL/pkg/config"
-	"github.com/ztalab/ZASentinel-MYSQL/pkg/mysqlproxy/client"
-	"github.com/ztalab/ZASentinel-MYSQL/pkg/mysqlproxy/mysql"
-	"github.com/ztalab/ZASentinel-MYSQL/pkg/mysqlproxy/server"
-	"github.com/ztalab/ZASentinel-MYSQL/utils"
+	"github.com/ZTDBP/ZASentinel-MYSQL/pkg/config"
+	"github.com/ztalab/mysqlproxy/client"
+	"github.com/ztalab/mysqlproxy/mysql"
+	"github.com/ztalab/mysqlproxy/server"
+	"github.com/ztalab/mysqlproxy/utils"
 )
 
 const bufSize = 4096

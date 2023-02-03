@@ -1,6 +1,6 @@
 ![banner](./docs/logo.png)
 # ZASentinel-MYSQL
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/ztalab/ZASentinel-MYSQL)](https://github.com/ztalab/ZASentinel-MYSQL/blob/master/go.mod)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/ZTDBP/ZASentinel-MYSQL)](https://github.com/ZTDBP/ZASentinel-MYSQL/blob/master/go.mod)
 
 
 
@@ -24,7 +24,7 @@
 ## Get Started
 
 ```shell
-git clone github.com/ztalab/ZASentinel-MYSQL
+git clone github.com/ZTDBP/ZASentinel-MYSQL
 
 make && make install
 ```
@@ -151,14 +151,14 @@ Now your mysql database has been securely protected, and no microservice has its
 
 ### Discussions Page
 
-You can discuss or ask for help in [discussions](https://github.com/ztalab/ZASentinel-MYSQL).
+You can discuss or ask for help in [discussions](https://github.com/ZTDBP/ZASentinel-MYSQL).
 
 
 
 ## 😃 Contribute
 
 ### Bug Reports / Feature Requests
-If you want to report a bug or request a new feature. Free feel to open a [new issue](https://github.com/ztalab/ZASentinel-MYSQL/issues).
+If you want to report a bug or request a new feature. Free feel to open a [new issue](https://github.com/ZTDBP/ZASentinel-MYSQL/issues).
 
 
 

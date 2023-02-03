@@ -43,7 +43,7 @@ run:
 ################################################################################
 .PHONY: format
 format: modtidy
-	gofumpt -l -w . && goimports -local github.com/ztalab/ -w $(shell find ./ -type f -name '*.go' -not -path "./test")
+	gofumpt -l -w . && goimports -local github.com/ZTDBP/ -w $(shell find ./ -type f -name '*.go' -not -path "./test")
 
 .PHONY: modtidy
 modtidy:
